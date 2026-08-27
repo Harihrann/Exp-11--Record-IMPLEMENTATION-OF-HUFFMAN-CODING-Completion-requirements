@@ -26,8 +26,8 @@ print the characters and its huffmancode
  
 ## Program:
 ```
-Name : Karthikeyan R
-Reg.no: 212222240046
+Name : HARIHARAN S
+Reg.no: 21222224040101
 ```
 
 ### Get the input String
