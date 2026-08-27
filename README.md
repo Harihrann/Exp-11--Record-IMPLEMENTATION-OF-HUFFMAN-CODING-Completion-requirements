@@ -32,7 +32,7 @@ Reg.no: 21222224040101
 
 ### Get the input String
 ```
-string = 'KARTHI_KEYAN_2525'
+string = 'HAriharan_S_21222_4040_101'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -96,7 +96,8 @@ for (char, frequency) in freq:
 
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/920d6b6e-aa5c-4130-a68c-299f1a0ac1dc)
+<img width="243" height="312" alt="image" src="https://github.com/user-attachments/assets/6cca342b-868f-48a6-a32c-0e458ba71f69" />
+
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
